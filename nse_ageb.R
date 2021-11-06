@@ -1,4 +1,4 @@
-parent <- "C:/Users/Ruben/Documents/Datos/Scince/Estados"
+parent <- "/Scince/Estados"
 
 dirs <- list.dirs(parent, full.names = F, recursive = F)
 
